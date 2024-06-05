@@ -9,3 +9,4 @@
 ## MAIS MAIS UM
 *push   
 *pull
+*gitfetch
